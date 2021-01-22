@@ -1,8 +1,10 @@
 # Paint
-A paint application in Java
+Microsoft Paint is dead, while there is no default Paint app for Mac. So I created an alternative simple paint application in Java with several tools and functions:
+Tools: Pencil, Eraser, Sprayer, Filler, Line Creator (solid or dashed), Square/Rectangle Creator (hollow or filled), Circle/Oval Creator (hollow or filled), and Magnifer
+Functions: Open/Save files, Undo/Redo, Copy/Cut/Paste, Select/Switch Colors, Select Brush Size/Type
 
 <p align="center">
-	<img src="snapshot.png"  width="580" height="311"/>
+	<img src="snapshot.png"/>
 </p>
 
 ## Usage
@@ -15,13 +17,15 @@ If it doesn't work, please try
 ```
 cd Paint/source
 javac -d ../classes *.java
+cd Paint/classes
+Java Main
 ```
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Kuan-Hsuan Shen
+Copyright (c) 2021 Kuan-Hsuan Shen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
