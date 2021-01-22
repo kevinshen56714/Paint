@@ -1,7 +1,9 @@
 # Paint
 Microsoft Paint is dead, while there is no default Paint app for Mac. So I created an alternative simple paint application in Java with several tools and functions:
-Tools: Pencil, Eraser, Sprayer, Filler, Line Creator (solid or dashed), Square/Rectangle Creator (hollow or filled), Circle/Oval Creator (hollow or filled), and Magnifer
-Functions: Open/Save files, Undo/Redo, Copy/Cut/Paste, Select/Switch Colors, Select Brush Size/Type
+<br />
+**Tools**: Pencil, Eraser, Sprayer, Filler, Line Creator (solid or dashed), Square/Rectangle Creator (hollow or filled), Circle/Oval Creator (hollow or filled), and Magnifer
+<br />
+**Functions**: Open/Save files, Undo/Redo, Copy/Cut/Paste, Select/Switch Colors, Select Brush Size/Type
 
 <p align="center">
 	<img src="snapshot.png"/>
